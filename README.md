@@ -39,8 +39,8 @@ I am a passionate Computer Science student focusing on building scalable web app
 
 **Databases**
 <br>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white">
-
+<img src="https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=oracledb&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white">
 ---
 
 
