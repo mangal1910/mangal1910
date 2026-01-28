@@ -10,9 +10,7 @@
   <a href="mailto:mangal192004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/mr_mangal_1910/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mangal1910&label=Profile%20views&color=0e75b6&style=flat" alt="mangal1910" />
-</p>
+
 ---
 
 ### 🚀 About Me
@@ -44,4 +42,6 @@ I am a passionate Computer Science student focusing on building scalable web app
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white">
 ---
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mangal1910&label=Profile%20views&color=0e75b6&style=flat" alt="mangal1910" />
+</p>
